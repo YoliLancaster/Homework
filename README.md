@@ -1,2 +1,2 @@
-# Homework1
+# Homework
 All my homework will appear here
