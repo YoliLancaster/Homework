@@ -1,4 +1,4 @@
-package com.ua.robotdreams;
+package com.ua.robotdreams.homework1;
 
 public class task1 {
     public static void main(String[] args) {
