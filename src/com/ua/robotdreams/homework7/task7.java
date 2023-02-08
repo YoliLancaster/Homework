@@ -24,6 +24,7 @@ public class task7 {
         fillArrayWithRandomNumbers(arr, 10);
         getMinArrayValue(arr);
         getMaxArrayValue(arr);
+        getSumArrayValue(arr);
         getAvgArrayValue(arr);
     }
 
@@ -61,6 +62,14 @@ public class task7 {
         }
         return max;
     }
+
+    static double getSumArrayValue(int[] arr) {
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum = sum + arr[i];
+            }
+            return sum;
+        }
 
     static double getAvgArrayValue(int[] arr) {
         double sum = 0;
