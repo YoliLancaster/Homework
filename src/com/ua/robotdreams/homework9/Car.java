@@ -17,7 +17,7 @@ public class Car extends Vehicle {
     }
 
     public int getYearOfProduction() {
-        return yearOfProduction;
+    return yearOfProduction;
     }
 
     public void setYearOfProduction(int yearOfProduction) {
@@ -25,7 +25,7 @@ public class Car extends Vehicle {
     }
 
     public Engine getTypeOfEngine() {
-        return typeOfEngine;
+    return typeOfEngine;
     }
 
     public void setTypeOfEngine(Engine typeOfEngine) {
